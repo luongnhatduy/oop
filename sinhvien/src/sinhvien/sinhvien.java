@@ -9,11 +9,10 @@ package sinhvien;
  *
  * @author luongnhatduy
  */
-import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class sinhvien {
-    private String hoten;
+    String hoten;
     int tuoi;
     
     public void nhap(){
