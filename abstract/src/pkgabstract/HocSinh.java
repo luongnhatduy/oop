@@ -3,11 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tinhketua;
+package pkgabstract;
 
+/**
+ *
+ * @author luongnhatduy
+ */
+public abstract class HocSinh {
 
-public class nu extends lophoc{
-    public void sohsnu(){
-        System.out.println("co 20 nu");
-    }
+    public abstract void soluong();
+    
 }
